@@ -1,0 +1,35 @@
+/* Custom Styles */
+
+/* Navbar */
+.navbar-default {
+    background-color: #f8f8f8; /* Light gray background */
+    border-color: transparent; /* No border */
+}
+
+.navbar-brand {
+    color: #333; /* Dark gray text */
+    font-weight: bold;
+}
+
+.navbar-toggle {
+    border: none; /* No border on the toggle button */
+}
+
+.navbar-toggle .icon-bar {
+    background-color: #333; /* Dark gray bars for the toggle button */
+}
+
+/* Page Heading */
+.container h1 {
+    margin-top: 50px; /* Add some space above the heading */
+}
+
+/* Tall Section */
+.tall-section {
+    background-color: #f0f0f0; /* Lighter gray background */
+    padding: 50px 0; /* Add padding top and bottom */
+}
+
+.tall-section p {
+    color: #555; /* Dark gray text */
+}
